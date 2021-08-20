@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "exercise-tracker-server-executor",
+    "name": "exercise-tracker-server",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "93wys2rsf4"
+  }
+}
